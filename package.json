@@ -9,7 +9,7 @@
   "license": "ISC",
   "dependencies": {
     "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery-serializejson": "^2.8.1",
     "jquery-validation": "^1.17.0",
     "okjs": "^3.4.0",
